@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lora', serif;
+}
+/* SECTION HERO */
+.hero{
+    margin-top: 1rem;
+    background-image: url(../images/page-top-bg.jpg);
+    height: 100px;
+}
+.hero__title{
+    text-align: center;
+    color: white;
+}

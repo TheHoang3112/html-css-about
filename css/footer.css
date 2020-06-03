@@ -1,0 +1,44 @@
+/* app-footer */
+.app-footer{
+    padding: 1rem 0;
+    background-image: url(/images/footer-bg.jpg);
+}
+/* app-footer__social-list */
+.app-footer__logo{
+    margin-bottom: 2.2rem;
+}
+.app-footer__social-list{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+.app-footer__social-list > li {
+    margin-right: 2.2rem;
+}
+.app-footer__social-list > li > a {
+    color: black;
+}
+/* app-footer__menu */
+.app-footer__menu{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+.app-footer__menu > li {
+    margin-right: 2.2rem;
+    margin-bottom: 2.2rem;
+}
+.app-footer__menu > li > a {
+    text-decoration: none;
+}
+a:hover {
+    color: deeppink;
+}

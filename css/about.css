@@ -1,0 +1,36 @@
+/* SECTION ABOUT */
+.about{
+    margin-top: 5rem;;
+}
+/* about-content */
+.about__content{
+    background-color: wheat;
+    max-width:400px;
+    max-height:600px;
+}
+.about__title{}
+.about__description{}
+
+/* about-img */
+.about__thumbnail{
+  max-width:400px;
+  max-height:600px;
+  width: auto;
+  height: auto;
+}
+/* ******************** */
+/* SECTION FACTS */
+.facts{
+    margin-top: 2.2rem;
+}
+
+/* fact-item__image */
+.fact-item__image {}
+/* fact-item__big-number */
+.fact-item__big-number {   
+    margin-top: 1.2rem;
+}
+/* fact-item__name  */
+.fact-item__name {
+    margin-top: 1.2rem;
+}
